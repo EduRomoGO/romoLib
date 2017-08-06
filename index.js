@@ -1,5 +1,5 @@
 'use strict';
 
-export function greet () {
-    console.log('hi');
-}
+import Button from './components/basics/button/Button.js';
+
+export { Button };
