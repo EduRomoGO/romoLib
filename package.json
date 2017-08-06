@@ -1,6 +1,6 @@
 {
   "name": "romo-lib",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React basic components lib",
   "main": "index.js",
   "scripts": {
